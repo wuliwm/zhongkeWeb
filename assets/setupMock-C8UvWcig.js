@@ -1,2 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/index-D6lf9Bal.js","assets/_commonjsHelpers-Cpj98o6Y.js","assets/index-CRKOpayI.js","assets/index-CXAhwGZE.css"])))=>i.map(i=>d[i]);
-import{_ as c}from"./index-CRKOpayI.js";let t=null;async function a(){if(t)return;const{createMock:e}=await c(async()=>{const{createMock:o}=await import("./index-D6lf9Bal.js");return{createMock:o}},__vite__mapDeps([0,1,2,3]));t=e()}export{a as setupMock};
